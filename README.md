@@ -103,3 +103,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mokshitgala15/mokshitgala15/output/snake.svg" alt="Snake animation" />
+
+###
