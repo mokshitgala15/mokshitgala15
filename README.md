@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mokshit Gala, and I like to build cool projects.</h2>
+<h2 align="left">Hi!👋 My name is Mokshit Gala, and I like to build cool projects.</h2>
 
 ###
 
