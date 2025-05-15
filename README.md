@@ -1,8 +1,26 @@
 <br clear="both">
 
-<img align="right" height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<h1 align="center">👩‍💻  About Me</h1>
 
 ###
+
+<br clear="both">
+
+<img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+###
+
+<h4 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🎖️ Fluent in multiple languages, most of them spoken only by compilers</h2>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mokshitgala/" target="_blank">
@@ -18,25 +36,9 @@
 
 ###
 
-<h4 align="center">Fluent in multiple languages, most of them spoken only by compilers</h4>
-
-###
-
 <br clear="both">
 
-<h2 align="center">👩‍💻  About Me</h2>
-
-###
-
-<br clear="both">
-
-<h4 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h4>
-
-###
-
-<br clear="both">
-
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Languages and tools</h2>
 
 ###
 
