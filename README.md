@@ -10,19 +10,19 @@
 
 ###
 
-<h2 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h2>
+<h3 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h3>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mokshitgala/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/640932444110848000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo"  />
   </a>
   <a href="https://x.com/MokshitGala" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
   </a>
 </div>
 
