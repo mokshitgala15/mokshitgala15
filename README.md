@@ -24,6 +24,9 @@
   <a href="https://x.com/MokshitGala" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
   </a>
+  <a href="https://www.instagram.com/mokshitz.z/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
