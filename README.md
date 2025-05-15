@@ -1,16 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👩‍💻  About Me</h1>
-
-###
-
-<br clear="both">
-
-<h4 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h4>
-
-###
-
-<img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
@@ -34,7 +24,19 @@
 
 <br clear="both">
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">👩‍💻  About Me</h2>
+
+###
+
+<br clear="both">
+
+<h4 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h4>
+
+###
+
+<br clear="both">
+
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -90,7 +92,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
