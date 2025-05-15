@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👩‍💻  About Me</h1>
+<h1 align="center">👩‍💻 About Me: Fluent in multiple languages, most of them spoken only by compilers 🎖️</h1>
 
 ###
 
@@ -18,19 +18,15 @@
 
 ###
 
-<h2 align="center">🎖️ Fluent in multiple languages, most of them spoken only by compilers</h2>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mokshitgala/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/640932444110848000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
   <a href="https://x.com/MokshitGala" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
   </a>
 </div>
 
