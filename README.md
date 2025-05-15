@@ -6,19 +6,15 @@
 
 <br clear="both">
 
-<h2 align="center">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h2>
+<img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h2 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/mokshitgala/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
