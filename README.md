@@ -1,34 +1,34 @@
 <br clear="both">
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h1 align="center">👩‍💻  About Me</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</p>
+<h4 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h4>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mokshitgala/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/640932444110848000" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="30" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="35" alt="discord logo"  />
   </a>
   <a href="https://x.com/MokshitGala" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="30" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="51" height="35" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<h6 align="center">Fluent in multiple languages, most of them spoken only by compilers</h6>
+<h4 align="center">Fluent in multiple languages, most of them spoken only by compilers</h4>
 
 ###
 
@@ -97,8 +97,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshitgala15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mokshitgala15&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshitgala15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mokshitgala15&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
