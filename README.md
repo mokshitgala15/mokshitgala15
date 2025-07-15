@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👩‍💻 About Me: Fluent in multiple languages, most of them spoken only by compilers 🎖️</h1>
+<h1 align="center">👩‍💻 About Me: Fluent in multiple languages, most of them spoken by compilers 🎖️</h1>
 
 ###
 
