@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate software developer and I like to build impactful projects<br><br>- 🔭 I’m working as Teaching Assistant @ SDSU, Robotics<br>- 📚 I'm currently pursuing my masters in computer science<br>- ⚡ In my free time I like to build cool stuff</h3>
+<h3 align="left">AI Software Engineer with experience building web applications and deploying machine learning models to production<br><br>- 🔭 I am actively looking for full-time opportunities where I can contribute to meaningful projects.<br>- 📚 Recently Graduated with a Masters in Computer Science<br>- ⚡ In my free time I like to build cool stuff</h3>
 
 ###
 
