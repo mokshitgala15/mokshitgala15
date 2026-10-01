@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">👩‍💻 About Me: Fluent in multiple languages, most of them spoken by compilers 🎖️</h1>
+<h1 align="center"> 👩‍💻 About Me: Fluent in multiple languages, spoken by compilers 👩‍💻</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">AI Software Engineer with experience building web applications and deploying machine learning models to production<br><br>- 🔭 I am actively looking for full-time opportunities where I can contribute to meaningful projects.<br>- 📚 Recently Graduated with a Masters in Computer Science<br>- ⚡ In my free time I like to build cool stuff</h3>
+<h3 align="left">Software Engineer with experience building Full Stack, ML and Backend systems systems.<br><br>- 🔭 Actively looking for opportunities where I can contribute to impact driven teams.<br>- 📚 Recently Graduated with a Masters in Computer Science<br>- ⚡ In my free time I like to build cool stuff</h3>
 
 ###
 
